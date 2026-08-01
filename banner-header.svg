@@ -1,0 +1,35 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0F1C"/>
+      <stop offset="100%" stop-color="#141D2E"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C9A24B" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#C9A24B" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- Wordmark -->
+  <text x="80" y="132" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" fill="#F4F1EA">Om Prakash Sharma</text>
+  <text x="82" y="168" font-family="Helvetica, Arial, sans-serif" font-size="16" letter-spacing="4" fill="#C9A24B">SENIOR DEVOPS &amp; CLOUD PLATFORM ENGINEER</text>
+  <text x="82" y="200" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#8B96A5">7+ Years · AWS · Azure · Kubernetes · Terraform · Delhi, India</text>
+
+  <line x1="80" x2="1120" y1="222" y2="222" stroke="#2A3444" stroke-width="1"/>
+
+  <!-- Career-progression signature element (real timeline: 2019 -> 2026) -->
+  <g font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8B96A5">
+    <polyline points="120,255 420,246 720,232 1080,196" fill="none" stroke="url(#line)" stroke-width="2"/>
+    <circle cx="120" cy="255" r="4" fill="#8B96A5"/>
+    <circle cx="420" cy="246" r="4" fill="#8B96A5"/>
+    <circle cx="720" cy="232" r="4" fill="#C9A24B"/>
+    <circle cx="1080" cy="196" r="5" fill="#C9A24B"/>
+
+    <text x="105" y="275">2019</text>
+    <text x="405" y="275">2023</text>
+    <text x="705" y="275">2024</text>
+    <text x="1058" y="180">Present</text>
+  </g>
+</svg>
