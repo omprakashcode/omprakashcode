@@ -37,69 +37,65 @@ Based in Delhi, India. Currently completing an MCA in AI & Machine Learning at A
 
 ## Technical Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
 **Cloud**
 <br>
-<img src="https://img.shields.io/badge/AWS-141B26?style=flat-square&logo=amazonaws&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/Azure-141B26?style=flat-square&logo=microsoftazure&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/GCP-141B26?style=flat-square&logo=googlecloud&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/EKS_/_AKS-141B26?style=flat-square&logo=kubernetes&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/AWS-141B26?style=flat-square&logo=amazonaws&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Azure-141B26?style=flat-square&logo=microsoftazure&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/GCP-141B26?style=flat-square&logo=googlecloud&logoColor=C9A24B" />
 
-</td>
-<td valign="top" width="33%">
-
-**Platform & IaC**
+**Containers**
 <br>
-<img src="https://img.shields.io/badge/Kubernetes-141B26?style=flat-square&logo=kubernetes&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/Docker-141B26?style=flat-square&logo=docker&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/Terraform-141B26?style=flat-square&logo=terraform&logoColor=C9A24B" /><br>
+<img src="https://img.shields.io/badge/Docker-141B26?style=flat-square&logo=docker&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Kubernetes-141B26?style=flat-square&logo=kubernetes&logoColor=C9A24B" />
+
+**Infrastructure**
+<br>
+<img src="https://img.shields.io/badge/Terraform-141B26?style=flat-square&logo=terraform&logoColor=C9A24B" />
 <img src="https://img.shields.io/badge/Ansible-141B26?style=flat-square&logo=ansible&logoColor=C9A24B" />
 
-</td>
-<td valign="top" width="33%">
-
-**Delivery & Ops**
+**CI/CD**
 <br>
-<img src="https://img.shields.io/badge/GitHub_Actions-141B26?style=flat-square&logo=githubactions&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/Jenkins-141B26?style=flat-square&logo=jenkins&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/Azure_DevOps-141B26?style=flat-square&logo=azuredevops&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/Grafana_/_Prometheus-141B26?style=flat-square&logo=grafana&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/GitHub_Actions-141B26?style=flat-square&logo=githubactions&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Jenkins-141B26?style=flat-square&logo=jenkins&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Azure_DevOps-141B26?style=flat-square&logo=azuredevops&logoColor=C9A24B" />
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Languages**
+**Programming**
 <br>
-<img src="https://img.shields.io/badge/Python-141B26?style=flat-square&logo=python&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/Go-141B26?style=flat-square&logo=go&logoColor=C9A24B" /><br>
+<img src="https://img.shields.io/badge/Python-141B26?style=flat-square&logo=python&logoColor=C9A24B" />
 <img src="https://img.shields.io/badge/Bash-141B26?style=flat-square&logo=gnubash&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Node.js-141B26?style=flat-square&logo=nodedotjs&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Go-141B26?style=flat-square&logo=go&logoColor=C9A24B" />
 
-</td>
-<td valign="top">
-
-**Data**
+**Databases**
 <br>
-<img src="https://img.shields.io/badge/PostgreSQL-141B26?style=flat-square&logo=postgresql&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/MySQL-141B26?style=flat-square&logo=mysql&logoColor=C9A24B" /><br>
+<img src="https://img.shields.io/badge/MySQL-141B26?style=flat-square&logo=mysql&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/PostgreSQL-141B26?style=flat-square&logo=postgresql&logoColor=C9A24B" />
 <img src="https://img.shields.io/badge/Redis-141B26?style=flat-square&logo=redis&logoColor=C9A24B" />
 
-</td>
-<td valign="top">
+**Monitoring**
+<br>
+<img src="https://img.shields.io/badge/Grafana-141B26?style=flat-square&logo=grafana&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Prometheus-141B26?style=flat-square&logo=prometheus&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/CloudWatch-141B26?style=flat-square&logo=amazoncloudwatch&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/OpenTelemetry-141B26?style=flat-square&logo=opentelemetry&logoColor=C9A24B" />
 
 **Security**
 <br>
-<img src="https://img.shields.io/badge/SonarQube-141B26?style=flat-square&logo=sonarqube&logoColor=C9A24B" /><br>
-<img src="https://img.shields.io/badge/Trivy-141B26?style=flat-square&logo=aquasecurity&logoColor=C9A24B" /><br>
+<img src="https://img.shields.io/badge/SonarQube-141B26?style=flat-square&logo=sonarqube&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Trivy-141B26?style=flat-square&logo=aquasecurity&logoColor=C9A24B" />
 <img src="https://img.shields.io/badge/OWASP-141B26?style=flat-square&logo=owasp&logoColor=C9A24B" />
 
-</td>
-</tr>
-</table>
+**Networking & Version Control**
+<br>
+<img src="https://img.shields.io/badge/Nginx-141B26?style=flat-square&logo=nginx&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Git-141B26?style=flat-square&logo=git&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/GitHub-141B26?style=flat-square&logo=github&logoColor=C9A24B" />
+
+**Operating Systems**
+<br>
+<img src="https://img.shields.io/badge/Linux-141B26?style=flat-square&logo=linux&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Ubuntu-141B26?style=flat-square&logo=ubuntu&logoColor=C9A24B" />
+<img src="https://img.shields.io/badge/Windows-141B26?style=flat-square&logo=windows&logoColor=C9A24B" />
 
 ---
 
