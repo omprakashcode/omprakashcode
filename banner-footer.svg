@@ -1,0 +1,14 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141D2E"/>
+      <stop offset="100%" stop-color="#0A0F1C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#bg2)"/>
+  <line x1="80" x2="1120" y1="30" y2="30" stroke="#2A3444" stroke-width="1"/>
+  <text x="600" y="68" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#F4F1EA">
+    "Automate everything that can be automated. Monitor everything that can't."
+  </text>
+  <text x="600" y="95" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#C9A24B">OM PRAKASH SHARMA</text>
+</svg>
